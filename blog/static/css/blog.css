@@ -1,0 +1,42 @@
+body{
+  background-color: yellow;
+  color: red;
+  font-family: "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.techfont{
+  font-family: 'Jost',sans-serif;
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.centerstage{
+  margin: auto;
+}
+.loader{
+  background-color: white;
+}
+.bigbrand{
+  font-size: 1.5em;
+}
+
+#jt{
+  background-color: white;
+}
+
+.postdate{
+  text-align: center;
+}
+.posttitle{
+  font-family: 'Oswald',sans-serif;
+  font-size: 3em;
+  text-align: center;
+}
+.postcontent{
+  font-family: 'Oswald',sans-serif;
+  font-size: 1.5em;
+}
+.btn-comment{
+  position: absolute;
+  right: 0px;
+}
